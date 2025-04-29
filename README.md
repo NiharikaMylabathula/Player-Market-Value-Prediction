@@ -1,0 +1,1 @@
+The goal of this project is to model and understand football player valuations and build cost-effective team recommendations. Using real-world datasets from the English Premier League (EPL) and La Liga, the project identifies key factors influencing player market values and translates these insights into actionable strategies for team building under budget constraints.
