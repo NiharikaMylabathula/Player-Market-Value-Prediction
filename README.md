@@ -155,9 +155,6 @@ Please be considerate when scraping. Respect each site's terms of service and ro
 - Replace the hand-picked feature subset with a principled selection, and try stacking or a log-transformed target to handle the skew.
 - Use a fixed random seed and a shared train/test split across notebooks for a fair comparison.
 
-## Authors
-
-<!-- Add names / links -->
 
 ## Acknowledgments
 
